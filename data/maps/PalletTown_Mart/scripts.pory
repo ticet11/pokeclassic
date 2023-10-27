@@ -1,0 +1,8 @@
+mapscripts PalletTown_Mart_MapScripts {}
+
+script PalletTown_EventScript_NewMart {
+	lock
+	faceplayer
+	msgbox("Sorry, we haven't opened yet.")
+	release
+}

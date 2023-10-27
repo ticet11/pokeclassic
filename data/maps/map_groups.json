@@ -1,5 +1,4 @@
 {
-  "layouts_table_label": "gMapLayouts",
   "group_order": [
     "gMapGroup_UnusedEmeraldTowns",
     "gMapGroup_UnusedEmeraldDungeons",
@@ -703,7 +702,8 @@
     "PalletTown_PlayersHouse_1F",
     "PalletTown_PlayersHouse_2F",
     "PalletTown_RivalsHouse",
-    "PalletTown_ProfessorOaksLab"
+    "PalletTown_ProfessorOaksLab",
+    "PalletTown_Mart"
   ],
   "gMapGroup_IndoorViridian": [
     "ViridianCity_House",

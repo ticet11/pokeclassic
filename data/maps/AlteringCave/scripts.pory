@@ -1,0 +1,4 @@
+raw `
+AlteringCave_MapScripts::
+	.byte 0
+`
