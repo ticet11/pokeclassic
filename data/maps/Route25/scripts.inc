@@ -220,8 +220,3 @@ Route25_Text_HaleyDefeat::
 Route25_Text_HaleyPostBattle::
     .string "You came from Mt. Moon?\n"
     .string "May I have a Clefairy?$"
-
-
-
-
-

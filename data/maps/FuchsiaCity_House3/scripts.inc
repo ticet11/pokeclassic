@@ -436,7 +436,3 @@ BerryHouse_EventScript_DoBerryBlending:
     @callnative UpdateFollowingPokemon
     releaseall
     end
-
-
-
-

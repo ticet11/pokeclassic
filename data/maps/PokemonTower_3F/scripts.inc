@@ -56,4 +56,3 @@ PokemonTower_3F_Text_HopeDefeat::
 PokemonTower_3F_Text_HopePostBattle::
     .string "I will be forever changed\n"
     .string "by this experience.$"
-

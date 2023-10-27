@@ -268,4 +268,3 @@ Movement_MoveMomToTable2::
 	walk_left
 	walk_left
 	step_end
-

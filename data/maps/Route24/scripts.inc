@@ -747,4 +747,3 @@ Route24_Text_EthanPostBattle::
     .string "I did my best. I have no regrets!$"
 
 @TODO: Postgame Nugget Bridge
-

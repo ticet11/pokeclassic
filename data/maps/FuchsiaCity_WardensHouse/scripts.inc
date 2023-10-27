@@ -118,4 +118,3 @@ FuchsiaCity_WardensHouse_EventScript_ItemRareCandy::
 	finditem ITEM_RARE_CANDY, 1
 	release
 	end
-

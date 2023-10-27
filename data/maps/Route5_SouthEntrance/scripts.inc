@@ -117,4 +117,3 @@ Route5_SouthEntrance_Movement_JennyExit:
 	walk_in_place_faster_down
 	delay_8
 	step_end
-

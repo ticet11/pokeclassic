@@ -128,6 +128,3 @@ CeruleanCity_BikeShop_EventScript_YoungsterHaveBike::
 CeruleanCity_BikeShop_Text_WowYourBikeIsCool::
     .string "Wow.\n"
     .string "Your BIKE is really cool!$"
-
-
-

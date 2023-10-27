@@ -215,4 +215,3 @@ Route17_Text_VirgilDefeat::
 
 Route17_Text_VirgilPostBattle::
     .string "I love racing downhill!$"
-

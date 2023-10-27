@@ -372,4 +372,3 @@ FuchsiaCity_Gym_Text_GymStatuePlayerWon::
     .string "Leader: Koga\p"
     .string "Winning Trainers:\n"
     .string "{RIVAL}, {PLAYER}$"
-

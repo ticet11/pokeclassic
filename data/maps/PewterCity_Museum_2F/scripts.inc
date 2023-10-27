@@ -59,4 +59,3 @@ PewterCity_Museum_2F_EventScript_MoonStone::
 PewterCity_Museum_1F_Text_MeteoriteThatFellOnMtMoon::
     .string "A meteorite that fell on Mt. Moon.\n"
     .string "It is thought to be a Moon Stone.$"
-

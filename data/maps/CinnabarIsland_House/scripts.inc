@@ -118,5 +118,3 @@ CinnabarIsland_House_Text_WhatsLeft::
 
 CinnabarIsland_House_Text_Grumpy::
 	.string "Hrmmph...$"
-
-

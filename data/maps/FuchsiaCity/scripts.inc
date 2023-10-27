@@ -216,4 +216,3 @@ FuchsiaCity_Text_MyFatherIsGymLeader::
     .string "this town.\p"
     .string "I'm training to use Poison Pokémon\n"
     .string "as well as my father.$"
-

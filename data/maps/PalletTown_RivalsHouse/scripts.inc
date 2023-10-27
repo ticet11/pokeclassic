@@ -255,6 +255,3 @@ PalletTown_RivalsHouse_Text_CouldntLoveYouMore::
     .string "any more than it does now.\p"
     .string "Your Pokémon is happy beyond\n"
     .string "words.$"
-
-
-

@@ -75,4 +75,3 @@ CeruleanCity_House3_EventScript_AlreadyTraded::
 CeruleanCity_House3_Text_IsntMyOldMonGreat::
 	.string "The {STR_VAR_2} that I traded you,\n"
 	.string "has it grown stronger?$"
-

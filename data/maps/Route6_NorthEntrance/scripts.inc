@@ -117,4 +117,3 @@ Route6_NorthEntrance_Movement_JennyExit:
 	walk_in_place_faster_up
 	delay_8
 	step_end
-

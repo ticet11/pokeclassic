@@ -69,10 +69,3 @@ VermilionCity_House1_Text_NoRoomForNiceGift::
 VermilionCity_House1_Text_ReceivedOldRodFromFishingGuru::
     .string "{PLAYER} received an Old Rod from\n"
     .string "the Fishing Guru.$"
-
-
-
-
-
-
-

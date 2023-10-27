@@ -80,4 +80,3 @@ SilphCo_2F_Text_Grunt2Defeat::
 SilphCo_2F_Text_Grunt2PostBattle::
     .string "Silph Co. will be associated with\n"
     .string "Team Rocket!$"
-

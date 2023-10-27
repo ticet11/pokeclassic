@@ -118,5 +118,3 @@ CeruleanCity_House1_EventScript_BagFull::
 CeruleanCity_House1_Text_MaybeLater::
  .string "Oops - your bag is full.\p"
  .string "Maybe come back later?$"
-
-

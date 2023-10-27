@@ -190,16 +190,3 @@ Route12_FishingHouse_Text_BlankChartOfSomeSort::
     .string "It's a blank chart of some sort.\p"
     .string "It has spaces for writing in\n"
     .string "records of some kind.$"
-
-
-
-
-
-
-
-
-
-
-
-
-

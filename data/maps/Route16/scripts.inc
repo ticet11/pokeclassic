@@ -305,10 +305,3 @@ Route16_Text_SnorlaxEatsBerries:
 	.string "Afterwards, it takes a long nap.\p"
 	.string "Even the noise from Cycling Road can't\n"
 	.string "wake it up.$"
-
-
-
-
-
-
-

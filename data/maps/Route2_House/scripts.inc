@@ -74,4 +74,3 @@ Route2_House_EventScript_AlreadyTraded::
 
 Route2_House_Text_IsntMyOldMonGreat::
 	.string "Isn't my old {STR_VAR_2} great?$"
-

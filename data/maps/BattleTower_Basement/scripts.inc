@@ -476,4 +476,3 @@ BattleTower_Basement_Text_CantFigureOutStaffHints:
 	.string "a few hints about your next opponent?\p"
 	.string "Well, I'm a full-grown man, but I have\n"
 	.string "trouble figuring out their hints.$"
-

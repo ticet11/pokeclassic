@@ -64,4 +64,3 @@ UndergroundPath_NorthEntrance_EventScript_AlreadyTraded::
 UndergroundPath_NorthEntrance_Text_IsntMyOldMonGreat::
 	.string "How is my old {STR_VAR_2}?\n"
 	.string "My {STR_VAR_1} is doing great!$"
-

@@ -591,4 +591,3 @@ RocketFugitive_Text_Defeat::
 RocketFugitive_Text_PostBattle::
 	.string "Fugitive: Fine!\p"
 	.string "I'll turn myself in.$"
-

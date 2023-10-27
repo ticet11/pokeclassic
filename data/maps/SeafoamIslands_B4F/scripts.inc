@@ -229,5 +229,3 @@ SeafoamIslands_B4F_EventScript_FastCurrentSign::
 SeafoamIslands_B4F_Text_DangerFastCurrent::
     .string "DANGER\n"
     .string "Fast current!$"
-
-

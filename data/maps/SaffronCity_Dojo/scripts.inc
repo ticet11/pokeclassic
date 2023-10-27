@@ -497,4 +497,3 @@ SaffronCity_Dojo_Unworthy::
 
 SaffronCity_Dojo_Text_Unworthy::
 	.string "You don't feel worthy of it.$"
-

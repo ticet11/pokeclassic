@@ -265,4 +265,3 @@ RocketHideout_Burglars_Text_BurglarDefeat6::
 
 RocketHideout_Burglars_Text_BurglarPostBattle6::
     .string "I never seem to find anything good.$"
-

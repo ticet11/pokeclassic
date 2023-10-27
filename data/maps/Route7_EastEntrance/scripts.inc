@@ -117,4 +117,3 @@ Route7_EastEntrance_Movement_JennyExit:
 	walk_in_place_faster_right
 	delay_8
 	step_end
-

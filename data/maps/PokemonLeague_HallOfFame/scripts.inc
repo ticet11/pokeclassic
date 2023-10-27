@@ -138,4 +138,3 @@ PokemonLeague_HallOfFame_EventScript_BeginPostgameRockets::
 	setflag FLAG_QUEUE_LOOKER_POSTGAME_CALL
 	setvar VAR_LOOKER_POSTGAME_CALL_STEPS, 0
 	return
-

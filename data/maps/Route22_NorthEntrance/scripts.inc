@@ -43,4 +43,3 @@ Route22_NorthEntrance_Text_HeadToVictoryRoad::
 	.string "Pokémon.\n"
 	.string "It's your final test before you face the\n"
 	.string "Elite Four!$"
-

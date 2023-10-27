@@ -166,4 +166,3 @@ Route8_WestEntrance_Movement_JennyExit:
 	walk_in_place_fast_left
 	delay_8
 	step_end
-

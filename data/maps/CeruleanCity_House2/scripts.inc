@@ -45,4 +45,3 @@ CeruleanCity_House2_EventScript_WallHole::
 
 CeruleanCity_House2_Text_TeamRocketLeftWayOut::
     .string "Team Rocket left a way out!$"
-

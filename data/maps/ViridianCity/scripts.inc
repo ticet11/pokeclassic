@@ -287,4 +287,3 @@ ViridianCity_Text_PlantingBerries::
 	.string "in the ground over here.\p"
 	.string "The soil is nice and soft...\n"
 	.string "I should plant something there!$"
-

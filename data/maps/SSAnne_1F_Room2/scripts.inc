@@ -52,4 +52,3 @@ SSAnne_1F_Room2_EventScript_ItemTM31::
     finditem ITEM_TM31, 1
     release
     end
-

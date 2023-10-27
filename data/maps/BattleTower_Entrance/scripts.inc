@@ -780,4 +780,3 @@ BattleTower_Entrance_Text_CanLeaveUntilLossOrSevenWins:
 	.string "or you beat seven Trainers in a row.\p"
 	.string "You'd best be certain that you're up\n"
 	.string "to the challenge.$"
-

@@ -74,4 +74,3 @@ PokemonMansion_3F_EventScript_CharizarditeY::
 	finditem ITEM_CHARIZARDITE_Y, 1
 	release
 	end
-

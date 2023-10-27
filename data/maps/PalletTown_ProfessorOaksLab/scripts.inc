@@ -1083,4 +1083,3 @@ ProfOak_EventScript_RatePokedex::
 	msgbox gOakDexRatingText_SoYouveSeenAndCaught, MSGBOX_DEFAULT
 	call ProfOak_EventScript_ShowRatingMessage
 	return
-
