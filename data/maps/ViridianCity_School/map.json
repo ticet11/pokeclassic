@@ -16,7 +16,6 @@
   "object_events": [
     {
       "graphics_id": "OBJ_EVENT_GFX_WOMAN_3",
-      "in_connection": false,
       "x": 6,
       "y": 2,
       "elevation": 3,
@@ -26,11 +25,11 @@
       "trainer_type": "TRAINER_TYPE_NONE",
       "trainer_sight_or_berry_tree_id": "0",
       "script": "ViridianCity_School_EventScript_Woman",
-      "flag": "0"
+      "flag": "0",
+      "in_connection": false
     },
     {
       "graphics_id": "OBJ_EVENT_GFX_LASS",
-      "in_connection": false,
       "x": 4,
       "y": 5,
       "elevation": 3,
@@ -40,7 +39,8 @@
       "trainer_type": "TRAINER_TYPE_NONE",
       "trainer_sight_or_berry_tree_id": "0",
       "script": "ViridianCity_School_EventScript_Lass",
-      "flag": "0"
+      "flag": "0",
+      "in_connection": false
     }
   ],
   "warp_events": [

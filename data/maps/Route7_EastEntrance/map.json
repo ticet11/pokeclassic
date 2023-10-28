@@ -16,7 +16,6 @@
   "object_events": [
     {
       "graphics_id": "OBJ_EVENT_GFX_OFFICER_JENNY",
-      "in_connection": false,
       "x": 11,
       "y": 5,
       "elevation": 3,
@@ -26,11 +25,11 @@
       "trainer_type": "TRAINER_TYPE_NONE",
       "trainer_sight_or_berry_tree_id": "0",
       "script": "Route7_EastEntrance_EventScript_Jenny",
-      "flag": "FLAG_DELIVERED_ROCKET_PLANS"
+      "flag": "FLAG_DELIVERED_ROCKET_PLANS",
+      "in_connection": false
     },
     {
       "graphics_id": "OBJ_EVENT_GFX_POLICE",
-      "in_connection": false,
       "x": 6,
       "y": 2,
       "elevation": 3,
@@ -40,7 +39,8 @@
       "trainer_type": "TRAINER_TYPE_NONE",
       "trainer_sight_or_berry_tree_id": "0",
       "script": "Route7_EastEntrance_EventScript_Guard",
-      "flag": "0"
+      "flag": "0",
+      "in_connection": false
     }
   ],
   "warp_events": [
