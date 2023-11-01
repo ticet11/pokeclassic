@@ -9492,12 +9492,12 @@
               {
                 "min_level": 6,
                 "max_level": 11,
-                "species": "SPECIES_ZUBAT"
+                "species": "SPECIES_GLIGAR"
               },
               {
                 "min_level": 6,
                 "max_level": 11,
-                "species": "SPECIES_ZUBAT"
+                "species": "SPECIES_CROBAT"
               },
               {
                 "min_level": 10,
@@ -9507,7 +9507,7 @@
               {
                 "min_level": 10,
                 "max_level": 10,
-                "species": "SPECIES_GEODUDE"
+                "species": "SPECIES_LARVITAR"
               },
               {
                 "min_level": 8,
@@ -9517,7 +9517,7 @@
               {
                 "min_level": 8,
                 "max_level": 8,
-                "species": "SPECIES_PARAS"
+                "species": "SPECIES_TRAPINCH"
               },
               {
                 "min_level": 12,
@@ -9527,7 +9527,7 @@
               {
                 "min_level": 12,
                 "max_level": 12,
-                "species": "SPECIES_SANDSHREW"
+                "species": "SPECIES_PHANPY"
               },
               {
                 "min_level": 11,
@@ -9535,9 +9535,9 @@
                 "species": "SPECIES_CLEFAIRY"
               },
               {
-                "min_level": 11,
+                "min_level": 1,
                 "max_level": 11,
-                "species": "SPECIES_CLEFAIRY"
+                "species": "SPECIES_CLEFFA"
               }
             ]
           },
@@ -9557,17 +9557,17 @@
               {
                 "min_level": 5,
                 "max_level": 15,
-                "species": "SPECIES_GEODUDE"
-              },
-              {
-                "min_level": 5,
-                "max_level": 15,
                 "species": "SPECIES_SANDSHREW"
               },
               {
                 "min_level": 5,
                 "max_level": 15,
-                "species": "SPECIES_SANDSHREW"
+                "species": "SPECIES_ARON"
+              },
+              {
+                "min_level": 5,
+                "max_level": 15,
+                "species": "SPECIES_NOSEPASS"
               }
             ]
           },
@@ -9593,243 +9593,243 @@
           }
         },
         {
-          "map": "MAP_MT_MOON_B1F",
-          "base_label": "gMtMoon_B1F",
-          "land_mons": {
-            "encounter_rate": 20,
-            "mons": [
-              {
-                "min_level": 6,
-                "max_level": 11,
-                "species": "SPECIES_ZUBAT"
-              },
-              {
-                "min_level": 6,
-                "max_level": 11,
-                "species": "SPECIES_ZUBAT"
-              },
-              {
-                "min_level": 6,
-                "max_level": 11,
-                "species": "SPECIES_ZUBAT"
-              },
-              {
-                "min_level": 6,
-                "max_level": 11,
-                "species": "SPECIES_ZUBAT"
-              },
-              {
-                "min_level": 10,
-                "max_level": 10,
-                "species": "SPECIES_GEODUDE"
-              },
-              {
-                "min_level": 10,
-                "max_level": 10,
-                "species": "SPECIES_GEODUDE"
-              },
-              {
-                "min_level": 8,
-                "max_level": 8,
-                "species": "SPECIES_PARAS"
-              },
-              {
-                "min_level": 8,
-                "max_level": 8,
-                "species": "SPECIES_PARAS"
-              },
-              {
-                "min_level": 12,
-                "max_level": 12,
-                "species": "SPECIES_SANDSHREW"
-              },
-              {
-                "min_level": 12,
-                "max_level": 12,
-                "species": "SPECIES_SANDSHREW"
-              },
-              {
-                "min_level": 11,
-                "max_level": 11,
-                "species": "SPECIES_CLEFAIRY"
-              },
-              {
-                "min_level": 11,
-                "max_level": 11,
-                "species": "SPECIES_CLEFAIRY"
-              }
-            ]
-          },
-          "rock_smash_mons": {
-            "encounter_rate": 20,
-            "mons": [
-              {
-                "min_level": 5,
-                "max_level": 15,
-                "species": "SPECIES_GEODUDE"
-              },
-              {
-                "min_level": 5,
-                "max_level": 15,
-                "species": "SPECIES_GEODUDE"
-              },
-              {
-                "min_level": 5,
-                "max_level": 15,
-                "species": "SPECIES_GEODUDE"
-              },
-              {
-                "min_level": 5,
-                "max_level": 15,
-                "species": "SPECIES_SANDSHREW"
-              },
-              {
-                "min_level": 5,
-                "max_level": 15,
-                "species": "SPECIES_SANDSHREW"
-              }
-            ]
-          },
-          "hidden_mons": {
-            "encounter_rate": 0,
-            "mons": [
-              {
-                "min_level": 6,
-                "max_level": 11,
-                "species": "SPECIES_ZUBAT"
-              },
-              {
-                "min_level": 8,
-                "max_level": 8,
-                "species": "SPECIES_PARAS"
-              },
-              {
-                "min_level": 11,
-                "max_level": 11,
-                "species": "SPECIES_CLEFAIRY"
-              }
-            ]
-          }
-        },
+			"map": "MAP_MT_MOON_B1F",
+			"base_label": "gMtMoon_B1F",
+			"land_mons": {
+				"encounter_rate": 20,
+				"mons": [
+					{
+						"min_level": 6,
+						"max_level": 11,
+						"species": "SPECIES_ZUBAT"
+					},
+					{
+						"min_level": 6,
+						"max_level": 6,
+						"species": "SPECIES_ZUBAT"
+					},
+					{
+						"min_level": 6,
+						"max_level": 11,
+						"species": "SPECIES_GLIGAR"
+					},
+					{
+						"min_level": 6,
+						"max_level": 11,
+						"species": "SPECIES_CROBAT"
+					},
+					{
+						"min_level": 10,
+						"max_level": 10,
+						"species": "SPECIES_GEODUDE"
+					},
+					{
+						"min_level": 10,
+						"max_level": 10,
+						"species": "SPECIES_LARVITAR"
+					},
+					{
+						"min_level": 8,
+						"max_level": 8,
+						"species": "SPECIES_PARAS"
+					},
+					{
+						"min_level": 8,
+						"max_level": 8,
+						"species": "SPECIES_TRAPINCH"
+					},
+					{
+						"min_level": 12,
+						"max_level": 12,
+						"species": "SPECIES_SANDSHREW"
+					},
+					{
+						"min_level": 12,
+						"max_level": 12,
+						"species": "SPECIES_PHANPY"
+					},
+					{
+						"min_level": 11,
+						"max_level": 11,
+						"species": "SPECIES_CLEFAIRY"
+					},
+					{
+						"min_level": 1,
+						"max_level": 11,
+						"species": "SPECIES_CLEFFA"
+					}
+				]
+			},
+			"rock_smash_mons": {
+				"encounter_rate": 20,
+				"mons": [
+					{
+						"min_level": 5,
+						"max_level": 15,
+						"species": "SPECIES_GEODUDE"
+					},
+					{
+						"min_level": 5,
+						"max_level": 15,
+						"species": "SPECIES_GEODUDE"
+					},
+					{
+						"min_level": 5,
+						"max_level": 15,
+						"species": "SPECIES_SANDSHREW"
+					},
+					{
+						"min_level": 5,
+						"max_level": 15,
+						"species": "SPECIES_ARON"
+					},
+					{
+						"min_level": 5,
+						"max_level": 15,
+						"species": "SPECIES_NOSEPASS"
+					}
+				]
+			},
+			"hidden_mons": {
+				"encounter_rate": 0,
+				"mons": [
+					{
+						"min_level": 6,
+						"max_level": 11,
+						"species": "SPECIES_ZUBAT"
+					},
+					{
+						"min_level": 8,
+						"max_level": 8,
+						"species": "SPECIES_PARAS"
+					},
+					{
+						"min_level": 11,
+						"max_level": 11,
+						"species": "SPECIES_CLEFAIRY"
+					}
+				]
+			}
+		},
         {
-          "map": "MAP_MT_MOON_B2F",
-          "base_label": "gMtMoon_B2F",
-          "land_mons": {
-            "encounter_rate": 20,
-            "mons": [
-              {
-                "min_level": 6,
-                "max_level": 11,
-                "species": "SPECIES_ZUBAT"
-              },
-              {
-                "min_level": 6,
-                "max_level": 11,
-                "species": "SPECIES_ZUBAT"
-              },
-              {
-                "min_level": 6,
-                "max_level": 11,
-                "species": "SPECIES_ZUBAT"
-              },
-              {
-                "min_level": 6,
-                "max_level": 11,
-                "species": "SPECIES_ZUBAT"
-              },
-              {
-                "min_level": 10,
-                "max_level": 10,
-                "species": "SPECIES_GEODUDE"
-              },
-              {
-                "min_level": 10,
-                "max_level": 10,
-                "species": "SPECIES_GEODUDE"
-              },
-              {
-                "min_level": 8,
-                "max_level": 8,
-                "species": "SPECIES_PARAS"
-              },
-              {
-                "min_level": 8,
-                "max_level": 8,
-                "species": "SPECIES_PARAS"
-              },
-              {
-                "min_level": 12,
-                "max_level": 12,
-                "species": "SPECIES_SANDSHREW"
-              },
-              {
-                "min_level": 12,
-                "max_level": 12,
-                "species": "SPECIES_SANDSHREW"
-              },
-              {
-                "min_level": 11,
-                "max_level": 11,
-                "species": "SPECIES_CLEFAIRY"
-              },
-              {
-                "min_level": 11,
-                "max_level": 11,
-                "species": "SPECIES_CLEFAIRY"
-              }
-            ]
-          },
-          "rock_smash_mons": {
-            "encounter_rate": 20,
-            "mons": [
-              {
-                "min_level": 5,
-                "max_level": 15,
-                "species": "SPECIES_GEODUDE"
-              },
-              {
-                "min_level": 5,
-                "max_level": 15,
-                "species": "SPECIES_GEODUDE"
-              },
-              {
-                "min_level": 5,
-                "max_level": 15,
-                "species": "SPECIES_GEODUDE"
-              },
-              {
-                "min_level": 5,
-                "max_level": 15,
-                "species": "SPECIES_SANDSHREW"
-              },
-              {
-                "min_level": 5,
-                "max_level": 15,
-                "species": "SPECIES_SANDSHREW"
-              }
-            ]
-          },
-          "hidden_mons": {
-            "encounter_rate": 0,
-            "mons": [
-              {
-                "min_level": 6,
-                "max_level": 11,
-                "species": "SPECIES_ZUBAT"
-              },
-              {
-                "min_level": 8,
-                "max_level": 8,
-                "species": "SPECIES_PARAS"
-              },
-              {
-                "min_level": 11,
-                "max_level": 11,
-                "species": "SPECIES_CLEFAIRY"
-              }
-            ]
-          }
-        },
+			"map": "MAP_MT_MOON_B2F",
+			"base_label": "gMtMoon_B2F",
+			"land_mons": {
+				"encounter_rate": 20,
+				"mons": [
+					{
+						"min_level": 6,
+						"max_level": 11,
+						"species": "SPECIES_ZUBAT"
+					},
+					{
+						"min_level": 6,
+						"max_level": 6,
+						"species": "SPECIES_ZUBAT"
+					},
+					{
+						"min_level": 6,
+						"max_level": 11,
+						"species": "SPECIES_GLIGAR"
+					},
+					{
+						"min_level": 6,
+						"max_level": 11,
+						"species": "SPECIES_CROBAT"
+					},
+					{
+						"min_level": 10,
+						"max_level": 10,
+						"species": "SPECIES_GEODUDE"
+					},
+					{
+						"min_level": 10,
+						"max_level": 10,
+						"species": "SPECIES_LARVITAR"
+					},
+					{
+						"min_level": 8,
+						"max_level": 8,
+						"species": "SPECIES_PARAS"
+					},
+					{
+						"min_level": 8,
+						"max_level": 8,
+						"species": "SPECIES_TRAPINCH"
+					},
+					{
+						"min_level": 12,
+						"max_level": 12,
+						"species": "SPECIES_SANDSHREW"
+					},
+					{
+						"min_level": 12,
+						"max_level": 12,
+						"species": "SPECIES_PHANPY"
+					},
+					{
+						"min_level": 11,
+						"max_level": 11,
+						"species": "SPECIES_CLEFAIRY"
+					},
+					{
+						"min_level": 1,
+						"max_level": 11,
+						"species": "SPECIES_CLEFFA"
+					}
+				]
+			},
+			"rock_smash_mons": {
+				"encounter_rate": 20,
+				"mons": [
+					{
+						"min_level": 5,
+						"max_level": 15,
+						"species": "SPECIES_GEODUDE"
+					},
+					{
+						"min_level": 5,
+						"max_level": 15,
+						"species": "SPECIES_GEODUDE"
+					},
+					{
+						"min_level": 5,
+						"max_level": 15,
+						"species": "SPECIES_SANDSHREW"
+					},
+					{
+						"min_level": 5,
+						"max_level": 15,
+						"species": "SPECIES_ARON"
+					},
+					{
+						"min_level": 5,
+						"max_level": 15,
+						"species": "SPECIES_NOSEPASS"
+					}
+				]
+			},
+			"hidden_mons": {
+				"encounter_rate": 0,
+				"mons": [
+					{
+						"min_level": 6,
+						"max_level": 11,
+						"species": "SPECIES_ZUBAT"
+					},
+					{
+						"min_level": 8,
+						"max_level": 8,
+						"species": "SPECIES_PARAS"
+					},
+					{
+						"min_level": 11,
+						"max_level": 11,
+						"species": "SPECIES_CLEFAIRY"
+					}
+				]
+			}
+		},
         {
           "map": "MAP_VICTORY_ROAD_1F",
           "base_label": "gVictoryRoad_1F",
