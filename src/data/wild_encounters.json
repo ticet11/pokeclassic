@@ -6692,7 +6692,7 @@
               {
                 "min_level": 12,
                 "max_level": 14,
-                "species": "SPECIES_BELLSPROUT"
+                "species": "SPECIES_HOPPIP"
               },
               {
                 "min_level": 8,
@@ -6702,7 +6702,7 @@
               {
                 "min_level": 12,
                 "max_level": 14,
-                "species": "SPECIES_BELLSPROUT"
+                "species": "SPECIES_SUNKERN"
               },
               {
                 "min_level": 13,
@@ -6717,17 +6717,17 @@
               {
                 "min_level": 12,
                 "max_level": 14,
-                "species": "SPECIES_BELLSPROUT"
+                "species": "SPECIES_SUNKERN"
               },
               {
                 "min_level": 13,
                 "max_level": 17,
-                "species": "SPECIES_PIDGEY"
+                "species": "SPECIES_BEAUTIFLY"
               },
               {
                 "min_level": 13,
                 "max_level": 17,
-                "species": "SPECIES_PIDGEY"
+                "species": "SPECIES_TAILLOW"
               },
               {
                 "min_level": 14,
@@ -6735,9 +6735,9 @@
                 "species": "SPECIES_WEEPINBELL"
               },
               {
-                "min_level": 14,
-                "max_level": 14,
-                "species": "SPECIES_WEEPINBELL"
+                "min_level": 18,
+                "max_level": 18,
+                "species": "SPECIES_SKIPLOOM"
               },
               {
                 "min_level": 17,
@@ -6876,7 +6876,7 @@
               {
                 "min_level": 12,
                 "max_level": 14,
-                "species": "SPECIES_ODDISH"
+                "species": "SPECIES_SPINARAK"
               },
               {
                 "min_level": 13,
@@ -6891,17 +6891,17 @@
               {
                 "min_level": 12,
                 "max_level": 14,
-                "species": "SPECIES_ODDISH"
+                "species": "SPECIES_SPINARAK"
               },
               {
                 "min_level": 13,
                 "max_level": 17,
-                "species": "SPECIES_VENONAT"
+                "species": "SPECIES_CASCOON"
               },
               {
                 "min_level": 13,
                 "max_level": 17,
-                "species": "SPECIES_VENONAT"
+                "species": "SPECIES_DUSTOX"
               },
               {
                 "min_level": 14,
