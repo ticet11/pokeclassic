@@ -50,3 +50,4 @@ overworld/
 *.sym
 *.js
 data/maps/*/scripts.inc
+porymap.user.cfg
